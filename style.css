@@ -8,6 +8,10 @@ body {
 }
 
 /* NAVIGATION BAR */
+navItem{
+  height:10px;
+}
+  
 
 nav {
   background-color: #111;
