@@ -112,6 +112,8 @@ nav {
 
 .sliderImage {
   z-index: 1;
+  width: 60vw;
+  height:40vh;
 }
 
 .sliderTitle {
